@@ -25,7 +25,7 @@ hist(flights$time.gained)
 mean(flights$time.gained) 
 
 # Create a data.frame that is of flights headed to seatac ('SEA'), 
-data.frame(flights, )
+data.frame(flights, 'SEA')
 
 # On average, did flights to seatac gain or loose time?
 
